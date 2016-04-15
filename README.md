@@ -1,6 +1,9 @@
 # Module 8: D3 Scales
 
 ## Overview
+
+MAKE SURE TO MAKE THE HEIGHT AND WIDTH 600, IT RELIES ON THIS LATER   -JORDAN
+
 In this module, we'll explore how **scales** allow you to translate from a _data space_ to a _visual space_. As you know, your datasets will rarely (never) be in pixels. Scales will provide you with functions that allow you to express your data in pixels, regardless of the **domain** of your data.
 
 It's important to distinguish between **scales** and **axes**. For the the sake of this (and other) modules, **scales** will refer to _functions_ that translate between the data space and visual space. **Axes** are visual representations of scales, in that they allow your audience to translate from a visual space back into a data space. Not surprisingly, you'll need to use your scales to build your axes.
